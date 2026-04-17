@@ -14,25 +14,27 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Hxshuu">
-        <img height="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
+        <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/Hxshuu">
-        <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+        <img height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
       </a>
-      <br />
-      <img height="155px" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
+</p>
 
 ## 🛠️ Tech-Stack and Tools
 

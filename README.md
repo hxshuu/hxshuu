@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Premium+Web+Apps;Learning+Next.js+and+DevOps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Premium+Web+Apps;Learning+Next.js+and+DevOps" />
 </p>
 
 <div align="center">
@@ -15,35 +13,38 @@
 ---
 
 ## 💫 About Me
+
 <div align="center">
-  
-  🔭 **Working on:** High-end Web Platforms & Media Proxies
-  
-  🌱 **Focusing on:** `Next.js`, `Cloudflare Workers` & `Backend`
-  
-  ⚡ **Style:** Modern Dark Themes & Glassmorphism UI
-  
-  💬 **Ask me about:** `Frontend`, `Backend`, `APIs`
+
+🔭 **Working on:** High-end Web Platforms & Media Proxies  
+🌱 **Focusing on:** `Next.js`, `Cloudflare Workers` & `Backend`  
+⚡ **Style:** Modern Dark Themes & Glassmorphism UI  
+💬 **Ask me about:** `Frontend`, `Backend`, `APIs`
 
 </div>
 
 <br/>
 
-<div align="center"> 
-  <a href="mailto:himanshu464121@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://www.instagram.com/hxshuu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/922887175119437854" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<div align="center">
+
+<a href="mailto:himanshu464121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://www.instagram.com/hxshuu/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/922887175119437854" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
 ## ⚒️ Tech Stack & Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
 </p>
@@ -59,13 +60,19 @@
 ## 📊 GitHub Analytics (2026)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
 </p>
 
 <p align="center">
@@ -75,18 +82,15 @@
 ---
 
 ## 🐍 Contribution Activity
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+---
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+great!+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+great!+🚀" />
 </div>
 
 <p align="center">

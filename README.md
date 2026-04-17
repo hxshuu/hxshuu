@@ -7,6 +7,8 @@
   </a>
 </p>
 
+## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
@@ -22,7 +24,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Hxshuu&theme=nightowl&radius=10" alt="Hxshuu's Activity Graph" />
 </p>
 
-
+## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -105,6 +107,10 @@
 ## 💬 Quote
 > Building for the vibe, not just the code -- let’s create something cool.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -113,7 +119,7 @@
 
 <p align="center">
   <a href="https://donation.streamiverse.io/hxshuu" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190,190,190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190,190,190, 0.5) !important;" >
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
   </a>
 </p>
 

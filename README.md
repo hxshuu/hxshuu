@@ -1,108 +1,115 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=hxshuu%20|%20Full%20Stack&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20|%20Automation%20Expert&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=hxshuu%20|%20Full%20Stack&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20•%20Automation%20Expert&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Premium+Web+Apps;Learning+Next.js+and+DevOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=30&duration=3500&pause=800&color=63A4FF&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Himanshu;Full+Stack+Developer;Building+Smooth+Web+Experiences;Learning+Next.js+%26+DevOps" />
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hxshuu.hxshuu" />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hxshuu.hxshuu&left_color=0f172a&right_color=63a4ff" />
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-<div align="center">
-
-✨ **I'm Himanshu** — a developer who builds for the vibe & the vision  
-🧠 Mixing logic with aesthetics, code with creativity  
-🚀 Turning random ideas into polished web experiences  
-
-</div>
-
----
-
-## 📊 GitHub Analytics (2026)
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.app/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
+✨ I'm <b>Himanshu</b> — building things that look good <i>and</i> feel right <br/>
+🧠 Code + Design = my playground <br/>
+🚀 Turning random ideas into real products <br/>
+🎯 Focused on clean UI & smooth UX
 </p>
 
 ---
 
-## 🛠️ Skills & Stack
+## ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
+  
+💻 Languages & Tools  
 
-🎨 **Design:** UI/UX, Modern Web Aesthetics, Glassmorphism  
+</p>
 
-💻 **Languages & Tools:**
-`Python` • `HTML` • `CSS` • `JavaScript` • `React` • `Next.js`  
-`Node.js` • `Express` • `MongoDB` • `Cloudflare Workers`
+<p align="center">
+Python • HTML • CSS • JavaScript • React • Next.js  
+Node.js • Express • MongoDB • Cloudflare Workers
+</p>
 
-⚡ **Focus:** Frontend, Creative Coding & Smooth UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,cloudflare&theme=dark" />
+</p>
 
-<br/>
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img width="48%" src="https://streak-stats.demolab.app/?user=hxshuu&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+⚡ Frontend Magic + UI Polish <br/>
+🌐 Full Stack Projects <br/>
+☁️ Exploring DevOps & Deployment
+</p>
 
 ---
 
 ## 💬 Fun Zone
 
-<div align="center">
+<p align="center">
+🌀 Coding for the vibe, not just the grind <br/>
+🤝 Open for collabs & cool ideas <br/>
+🎨 I like interfaces that feel alive
+</p>
 
-🌀 Took a break from “serious coding”… came back for the vibes  
-🤝 Always open for creative collabs & cool projects  
-🎯 Building things that *feel* as good as they work  
-
-> **"Code for the vibe, not the grind."**
-
-</div>
+<p align="center">
+<b>"Code should feel as good as it runs."</b>
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="mailto:himanshu464121@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://www.instagram.com/hxshuu/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 <a href="https://discord.com/users/922887175119437854" target="_blank">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" />
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+great!+🚀" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&pause=1000&color=63A4FF&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+👋;Let's+build+something+cool+🚀" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />

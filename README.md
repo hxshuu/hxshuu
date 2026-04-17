@@ -12,9 +12,6 @@
   </a>
 </p>
 
-<!-- 🛠️ Tech Stack & Skills (MOVED HERE) -->
-## 🛠️ Tech Stack & Skills
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust,swift" height="60"/>
   <br/>

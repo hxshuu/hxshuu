@@ -10,27 +10,25 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hxshuu&theme=2077" alt="Top Languages by Repo" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=2077" alt="Hxshuu's Contribution Summary" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Hxshuu">
-    <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
+    <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10" alt="Hxshuu's GitHub Stats" />
   </a>
-  <a href="https://github.com/Hxshuu">
-    <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
+  <img height="195px" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
-</p>
-
-## 🛠️ Top Languages by Repo & Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />&nbsp;

@@ -13,6 +13,10 @@
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=2077" alt="Hxshuu's Contribution Summary" />
+</p>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -25,14 +29,7 @@
 </table>
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=2077" alt="Hxshuu's Contribution Summary" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hxshuu">
-    <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=tokyonight&border_radius=10" alt="Hxshuu's GitHub Stats" />
-  </a>
-  <img height="195px" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
 </p>
 
 ## 🛠️ Tech Stack & Skills

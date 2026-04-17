@@ -12,6 +12,13 @@
 
 ---
 
+## 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
 ## 💫 About Me
 
 <div align="center">
@@ -21,6 +28,23 @@
 🚀 Turning random ideas into polished web experiences  
 
 </div>
+
+---
+
+## 📊 GitHub Analytics (2026)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.app/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
+</p>
 
 ---
 
@@ -35,6 +59,10 @@
 `Node.js` • `Express` • `MongoDB` • `Cloudflare Workers`
 
 ⚡ **Focus:** Frontend, Creative Coding & Smooth UI
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
 
 </div>
 
@@ -69,46 +97,6 @@
 </a>
 
 </div>
-
----
-
-## ⚒️ Tech Stack Visual
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Analytics (2026)
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hxshuu&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ---
 

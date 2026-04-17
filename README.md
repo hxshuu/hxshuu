@@ -10,33 +10,29 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
+  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top">
       <a href="https://github.com/Hxshuu">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
+        <img height="350px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top">
       <a href="https://github.com/Hxshuu">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+        <img height="185px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
       </a>
       <br />
-      <img src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" width="100%" />
+      <img height="155px" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Hxshuu&theme=nightowl&radius=10" alt="Hxshuu's Activity Graph" />
-</p>
 
 ## 🛠️ Tech-Stack and Tools
 
@@ -116,11 +112,11 @@
 > Building for the vibe, not just the code -- let’s create something cool.
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <p align="center">

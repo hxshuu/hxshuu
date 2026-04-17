@@ -6,9 +6,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Premium+Web+Apps;Learning+Next.js+and+DevOps" />
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hxshuu.hxshuu" />
-</div>
+---
+
+## 🐍 Contributions in Last Year
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
+</p>
 
 ---
 
@@ -16,9 +34,9 @@
 
 <div align="center">
 
-✨ **I'm Himanshu** — a developer who builds for the vibe & the vision  
-🧠 Mixing logic with aesthetics, code with creativity  
-🚀 Turning random ideas into polished web experiences  
+✨ **I'm Himanshu** — building for vibe & visuals  
+🎯 Focused on frontend, clean UI & creative dev  
+🚀 Turning ideas into smooth web experiences  
 
 </div>
 
@@ -28,13 +46,10 @@
 
 <div align="center">
 
-🎨 **Design:** UI/UX, Modern Web Aesthetics, Glassmorphism  
+🎨 UI/UX • Web Aesthetics • Glassmorphism  
 
-💻 **Languages & Tools:**
-`Python` • `HTML` • `CSS` • `JavaScript` • `React` • `Next.js`  
-`Node.js` • `Express` • `MongoDB` • `Cloudflare Workers`
-
-⚡ **Focus:** Frontend, Creative Coding & Smooth UI
+💻 `Python` • `HTML` • `CSS` • `JavaScript` • `React` • `Next.js`  
+⚡ `Node.js` • `Express` • `MongoDB` • `Cloudflare Workers`
 
 </div>
 
@@ -44,9 +59,9 @@
 
 <div align="center">
 
-🌀 Took a break from “serious coding”… came back for the vibes  
-🤝 Always open for creative collabs & cool projects  
-🎯 Building things that *feel* as good as they work  
+🌀 Coding break liya tha… ab vibe ke liye wapas  
+🤝 Open for collabs & creative ideas  
+🔥 Clean UI + smooth experience = goal  
 
 > **"Code for the vibe, not the grind."**
 
@@ -79,42 +94,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Analytics (2026)
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hxshuu&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+great!+🚀" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />

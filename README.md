@@ -10,21 +10,35 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hxshuu">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" width="49%" />
+  <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxshuu">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hxshuu&cache_seconds=7200&show_icons=true&theme=nightowl&border_radius=10" alt="Hxshuu's GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Hxshuu">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+      </a>
+      <br />
+      <img src="https://streak-stats.demolab.com/?user=Hxshuu&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Hxshuu's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Hxshuu&theme=nightowl&radius=10" alt="Hxshuu's Activity Graph" />
 </p>
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech-Stack and Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -91,12 +105,6 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Hxshuu">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hxshuu&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:himanshu464121@gmail.com">
@@ -108,14 +116,12 @@
 > Building for the vibe, not just the code -- let’s create something cool.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=nightowl" alt="Hxshuu's Contribution Summary" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+</p>
 
 <p align="center">
   <a href="https://donation.streamiverse.io/hxshuu" target="_blank">

@@ -16,14 +16,43 @@
 
 <div align="center">
 
-🔭 **Working on:** High-end Web Platforms & Media Proxies  
-🌱 **Focusing on:** `Next.js`, `Cloudflare Workers` & `Backend`  
-⚡ **Style:** Modern Dark Themes & Glassmorphism UI  
-💬 **Ask me about:** `Frontend`, `Backend`, `APIs`
+✨ **I'm Himanshu** — a developer who builds for the vibe & the vision  
+🧠 Mixing logic with aesthetics, code with creativity  
+🚀 Turning random ideas into polished web experiences  
 
 </div>
 
-<br/>
+---
+
+## 🛠️ Skills & Stack
+
+<div align="center">
+
+🎨 **Design:** UI/UX, Modern Web Aesthetics, Glassmorphism  
+
+💻 **Languages & Tools:**
+`Python` • `HTML` • `CSS` • `JavaScript` • `React` • `Next.js`  
+`Node.js` • `Express` • `MongoDB` • `Cloudflare Workers`
+
+⚡ **Focus:** Frontend, Creative Coding & Smooth UI
+
+</div>
+
+---
+
+## 💬 Fun Zone
+
+<div align="center">
+
+🌀 Took a break from “serious coding”… came back for the vibes  
+🤝 Always open for creative collabs & cool projects  
+🎯 Building things that *feel* as good as they work  
+
+> **"Code for the vibe, not the grind."**
+
+</div>
+
+---
 
 <div align="center">
 
@@ -43,17 +72,11 @@
 
 ---
 
-## ⚒️ Tech Stack & Skills
+## ⚒️ Tech Stack Visual
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
-</div>
 
 ---
 

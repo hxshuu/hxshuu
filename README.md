@@ -12,6 +12,17 @@
   </a>
 </p>
 
+<!-- 🛠️ Tech Stack & Skills (MOVED HERE) -->
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust,swift" height="60"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,nodejs,express" height="60"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,kubernetes,git,vscode,figma,postman" height="60"/>
+</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
@@ -35,16 +46,6 @@
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust,swift" height="60"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,nodejs,express" height="60"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,kubernetes,git,vscode,figma,postman" height="60"/>
 </p>
 
 ## 🔗 Connect with Me

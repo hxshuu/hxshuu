@@ -13,9 +13,16 @@
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hxshuu&theme=2077" alt="Top Languages by Repo" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hxshuu&theme=2077" alt="Hxshuu's Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hxshuu&theme=2077" alt="Repos per Language" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=2077" alt="Hxshuu's Contribution Summary" />

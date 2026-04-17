@@ -1,16 +1,99 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=hxshuu%20|%20Full%20Stack&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20|%20Backend%20|%20Automation&descAlignY=55&descSize=18" />
+</p>
 
-<!--
-**hxshuu/hxshuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Next-Gen+Web+Apps;Learning+Next.js+and+DevOps" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hxshuu.hxshuu" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 About Me
+<div align="center">
+  
+  🔭 **Working on:** Web Projects & Automation Scripts
+  
+  🌱 **Learning:** `Next.js`, `Backend Engineering` & `DevOps`
+  
+  💬 **Ask me about:** `Frontend`, `Backend`, `APIs`
+  
+  ⚡ **Fun Fact:** I love building complex things from scratch!
+
+</div>
+
+<br/>
+
+<div align="center"> 
+  <a href="mailto:himanshu464121@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.instagram.com/hxshuu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/922887175119437854" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ⚒️ Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,heroku,cloudflare&theme=dark" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750917-6d25e3c4-3c4b-4b7d-8c58-8b8b9e9c6eaa.gif" width="100%" />
+</div>
+
+---
+
+## 🔥 What I Do
+- 🌐 **Full Stack Development** - Clean and responsive web interfaces.
+- ⚙️ **Automation & Bots** - Custom WhatsApp, Telegram, and N8N bots.
+- 🎥 **Media Streaming** - Expertise in M3U8, HLS, and OTT automation.
+- 🛠️ **Environment Setup** - GitHub Actions, Termux, and Linux scripting.
+
+---
+
+## 📊 GitHub Analytics (2026)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxshuu&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hxshuu&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hxshuu&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+<p align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+👋;Let's+build+something+great!+🚀" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071b4f,100:00013a&height=120&section=footer" />
+</p>

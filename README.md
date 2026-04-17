@@ -21,6 +21,20 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.com/users/830719367993360434">
+    <img src="https://skillicons.dev/icons?i=discord" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:himanshu464121@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hxshuu/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
@@ -45,21 +59,6 @@
   <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://discord.com/users/830719367993360434">
-    <img src="https://skillicons.dev/icons?i=discord" height="55"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:himanshu464121@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hxshuu/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />

@@ -16,7 +16,7 @@
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
-<!-- ☕ MOVED DONATION HERE -->
+<!-- ☕ DONATION -->
 <p align="center">
   <a href="https://donation.streamiverse.io/hxshuu">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="50" />
@@ -67,12 +67,13 @@
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
 ## 💬 Quote
 
 <p align="center">
   <b>Building for the vibe, not just the code — let’s create something cool.</b>
 </p>
+
+<!-- 🎬 FINAL FOOTER GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>

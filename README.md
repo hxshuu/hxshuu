@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=hxshuu%20|%20Full%20Stack&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20|%20Backend%20|%20Automation&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=220&section=header&text=hxshuu%20|%20Full%20Stack&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20|%20Automation%20Expert&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Next-Gen+Web+Apps;Learning+Next.js+and+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=32&duration=4000&pause=1000&color=63A4FF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Himanshu!;Building+Premium+Web+Apps;Learning+Next.js+and+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,13 +17,13 @@
 ## 💫 About Me
 <div align="center">
   
-  🔭 **Working on:** Web Projects & Automation Scripts
+  🔭 **Working on:** High-end Web Platforms & Media Proxies
   
-  🌱 **Learning:** `Next.js`, `Backend Engineering` & `DevOps`
+  🌱 **Focusing on:** `Next.js`, `Cloudflare Workers` & `Backend`
+  
+  ⚡ **Style:** Modern Dark Themes & Glassmorphism UI
   
   💬 **Ask me about:** `Frontend`, `Backend`, `APIs`
-  
-  ⚡ **Fun Fact:** I love building complex things from scratch!
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ## ⚒️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,heroku,cloudflare&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,linux,workers,cloudflare&theme=dark" />
 </p>
 
 <br/>
@@ -56,15 +56,8 @@
 
 ---
 
-## 🔥 What I Do
-- 🌐 **Full Stack Development** - Clean and responsive web interfaces.
-- ⚙️ **Automation & Bots** - Custom WhatsApp, Telegram, and N8N bots.
-- 🎥 **Media Streaming** - Expertise in M3U8, HLS, and OTT automation.
-- 🛠️ **Environment Setup** - GitHub Actions, Termux, and Linux scripting.
-
----
-
 ## 📊 GitHub Analytics (2026)
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hxshuu&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=hxshuu&theme=radical&border_radius=10&hide_border=true" />
@@ -83,10 +76,12 @@
 
 ## 🐍 Contribution Activity
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxshuu/hxshuu/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">

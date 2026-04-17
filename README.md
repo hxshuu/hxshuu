@@ -23,7 +23,6 @@
 </p>
 
 
-## 🔪 Tech-Stack and Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">

@@ -7,8 +7,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
-
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Himanshu's GitHub Trophies" />
 </p>

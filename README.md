@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://hxshuu.github.io/donate/">
-    <img src="https://github.com/logankuzyk/kofi-button" height="50" />
+    <img src="https://user-images.githubusercontent.com/7586345/125668092-55af2a45-aa7d-4795-93ed-de0a9a2828c5.png" height="50" />
   </a>
 </p>
 

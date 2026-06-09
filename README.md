@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-  <a href="https://donation.streamiverse.io/hxshuu">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="50" />
+  <a href="https://hxshuu.github.io/donate/">
+    <img src="https://github.com/logankuzyk/kofi-button" height="50" />
   </a>
 </p>
 

@@ -38,7 +38,12 @@
   <img src="https://trophy.ryglcloud.net/?username=Hxshuu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
-<!-- ☕ DONATION -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=Hxshuu&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true" alt="Himanshu's GitHub Trophies" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://donation.streamiverse.io/hxshuu">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="50" />
@@ -49,7 +54,6 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hxshuu&theme=2077" />
 </p>
 
-<!-- 🔥 STATS -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hxshuu&theme=2077" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hxshuu&theme=2077" width="49%" />
@@ -58,7 +62,6 @@
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=Hxshuu&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
@@ -70,7 +73,6 @@
   <b>Building for the vibe, not just the code — let’s create something cool.</b>
 </p>
 
-<!-- 🎬 FINAL FOOTER GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </div>
